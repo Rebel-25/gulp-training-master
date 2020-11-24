@@ -1,0 +1,25 @@
+body {
+  position : relative;
+  top : 0;
+  right : 0;
+  left : 0.5;
+
+  display : flex;
+  overflow-x : hidden;
+  overflow-y : scroll;
+  order : 1;
+
+  margin : 0;
+  padding : 0;
+
+  content : "12345";
+  text-align : center;
+  letter-spacing : 0.05em;
+
+  color : #637588;
+  background-color : aqua;
+
+  font-size : 1.125rem;
+}
+
+
